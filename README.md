@@ -55,8 +55,7 @@ Domain: example.com
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request if you'd like to add features or improve the existing functionality.
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+
 
 ## Connect
 Follow me on [LinkedIn](https://www.linkedin.com/in/shivam-rai/) for updates and check out my other projects on [GitHub](https://github.com/Nyxoy77).
