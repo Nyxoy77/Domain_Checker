@@ -2,14 +2,14 @@
 # Domain Checker
 
 ## Overview
-**Domain Checker** is a tool designed to help verify the email readiness of a domain by checking essential DNS records, specifically MX, SPF, and DMARC records. With this project, you can ensure a domain's email setup and enhance email deliverability and security.
+*Domain Checker* is a tool designed to help verify the email readiness of a domain by checking essential DNS records, specifically MX, SPF, and DMARC records. With this project, you can ensure a domain's email setup and enhance email deliverability and security.
 
 This project is currently implemented as a backend tool using Go, with plans to add a frontend interface for a more user-friendly experience.
 
 ## Features
-- **MX Record Check**: Verifies if a domain has an MX (Mail Exchanger) record, which indicates email service capability.
-- **SPF Record Check**: Checks for the presence of an SPF (Sender Policy Framework) record, which specifies authorized email servers for the domain.
-- **DMARC Record Check**: Looks for a DMARC (Domain-based Message Authentication, Reporting & Conformance) record, which provides additional email security and reporting.
+- *MX Record Check*: Verifies if a domain has an MX (Mail Exchanger) record, which indicates email service capability.
+- *SPF Record Check*: Checks for the presence of an SPF (Sender Policy Framework) record, which specifies authorized email servers for the domain.
+- *DMARC Record Check*: Looks for a DMARC (Domain-based Message Authentication, Reporting & Conformance) record, which provides additional email security and reporting.
 
 ## Future Plans
 - Develop a frontend interface to make the tool accessible to non-technical users.
