@@ -62,8 +62,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 Follow me on [LinkedIn](https://www.linkedin.com/in/shivam-rai/) for updates and check out my other projects on [GitHub](https://github.com/Nyxoy77).
 
 Stay tuned for updates as I work on the frontend to make this tool even more user-friendly!
-
----
-
-**Shivam Rai**
 ```
+
