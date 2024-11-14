@@ -1,5 +1,3 @@
-Here’s a `README.md` file for your **Domain Checker** project. This file explains the project’s purpose, usage, and future plans:
-
 ```markdown
 # Domain Checker
 
@@ -65,9 +63,5 @@ Follow me on [LinkedIn](https://www.linkedin.com/in/shivam-rai/) for updates and
 
 Stay tuned for updates as I work on the frontend to make this tool even more user-friendly!
 
----
 
-**Shivam Rai**
-```
 
-This `README.md` provides a clear introduction, installation instructions, and an example of how the tool works, making it easy for others to understand and use. Let me know if you'd like to add anything else!
